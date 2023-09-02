@@ -5,11 +5,11 @@ app_id = "wx87edf3f6e1025cf3"
 app_secret = "ef42a1175e2497db06c4cb864efa06e6"
 # 模板消息id
 # 每日消息
-template_id1 = "Mm26XxQQL0ESnkedL_iQr1ffs_4siFKD9NdPRJjPlHA"
+template_id1 = "IM6gWRIF0KJ9tPLFqtps-bDfUYsV1J0SVAFNmpShE0k"
 # 课程消息,上课提醒
 template_id2 = "NXtQgXHRdI-io0odB2VTciuPmwWe0y-XUqSMwVuYuhA"
 # 晚安心语
-template_id3 = "u1My0WIBWKnfVAtcjKFVpXZQGx84mn1bRQ57QJ8vCFY"
+template_id3 = "NrST-uEBhIsYvHPnhajSgRdiyWwB848fhLRF5cjdgqM"
 # 接收公众号消息的微信号
 # 这是openid
 user = ["oShA16fyWBIKDYPJxPKOQxA3Z1N4"]
@@ -24,7 +24,7 @@ birthday = "2002-7-1"
 # 在一起的日子，格式同上------------计时器
 love_date = "2022-7-21"
 # 天行数据晚安心语 key
-good_Night_Key = "4082bfd944c******************"
+# good_Night_Key = "4082bfd944c******************"
 # -------------------------------------------------------------------------
 # 设置学期第一周开始日期
 year = 2023
